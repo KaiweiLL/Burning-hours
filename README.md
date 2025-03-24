@@ -90,7 +90,7 @@ The analysis requires several datasets:
 
 The datasets required for the code are listed in the data requirements and are all publicly available.
 
-Please be aware that this code was not crafted by a professional software developer, hence it might not exhibit the highest level of elegance or efficiency. This code has been processed with the assistance of a large language model for clarity and organization. Should you have any feedback or recommendations concerning the code, we encourage you to share them with us. Additionally, if you have any inquiries about the code, the data, or the analysis overall, please don't hesitate to reach out.
+Please be aware that this code was not crafted by a professional software developer, hence it might not exhibit the highest level of elegance or efficiency. This code has been processed with the assistance of a large language model for clarity and organization when uploaded to GitHub. Should you have any feedback or recommendations concerning the code, we encourage you to share them with us. Additionally, if you have any inquiries about the code, the data, or the analysis overall, please don't hesitate to reach out.
 
 ## Citation
 
