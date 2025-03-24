@@ -22,8 +22,9 @@ This section includes the initial data preparation and processing of GOES satell
 - **01_Download.R**: Downloads GOES-16, GOES-17, and GOES-18 active fire products.
 - **02_Processing.R**: Processes raw GOES active fire detection data.
 - **03_Projecting.R**: Projects the processed data to consistent geographic coordinates.
-- **04_hrly fire cycle_hrly fire weather.R**: Identifies hourly fire diurnal cycles and extracts corresponding hourly fire weather.
-- **05_daily fire weather extraction.R**: Extracts and calculates daily fire weather metrics.
+- **04_hourly_extract_fire weather_2017_2023.R**: Identifies hourly fire diurnal cycles and extracts corresponding hourly fire weather.
+- **05_NA_daily_extract_fire weather_2017_2023.R**: Extracts and calculates daily fire weather metrics.
+- **06_daily combo_hourly combo_goes combo.R**: Combine hourly and daily extractions.
 
 ### 2. Active Burning Hours (ABH) Analysis (2017-2023)
 
@@ -34,7 +35,7 @@ Analysis of observed hourly fire activity using R scripts:
 - **03_spatial_seasonal_burning_patterns.R**: Investigates spatial and seasonal burning patterns.
 - **04_spatial_visualization.R**: Creates spatial visualizations of burning hour patterns.
 - **05_biome_seasonal_analysis.R**: Analyzes burning patterns by biome and season.
-- **06_nighttime_burning_analysis.R**: Focuses on overnight burning patterns and their drivers.
+- **06_nighttime_burning_analysis.R**: Focuses on nighttime burning patterns and their drivers.
 
 ### 3. Potential Burning Hours (PHB) Analysis (1975-2024)
 
