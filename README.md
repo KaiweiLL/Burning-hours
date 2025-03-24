@@ -35,7 +35,7 @@ Analysis of observed hourly fire activity using R scripts:
 - **03_spatial_seasonal_burning_patterns.R**: Investigates spatial and seasonal burning patterns.
 - **04_spatial_visualization.R**: Creates spatial visualizations of burning hour patterns.
 - **05_biome_seasonal_analysis.R**: Analyzes burning patterns by biome and season.
-- **06_nighttime_burning_analysis.R**: Focuses on nighttime burning patterns and their drivers.
+- **06_nighttime_burning_analysis.R**: Focuses on nighttime burning.
 
 ### 3. Potential Burning Hours (PHB) Analysis (1975-2024)
 
