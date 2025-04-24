@@ -1,7 +1,7 @@
 # Burning-hours
 # Weakened Diurnal Weather Constraints Lead to Longer Burning Hours in North America
 
-This repository contains the code supporting the paper "Weakened diurnal weather constraints lead to longer burning hours in North America" by Kaiwei Luo, Xianli Wang, Dante Castellanos-Acuna, and Mike Flannigan.
+This repository contains the code supporting the paper "A Weakened diurnal weather cycle leads to longer burning hours in North America" by Kaiwei Luo, Xianli Wang, Dante Castellanos-Acuna, and Mike Flannigan.
 
 ## Overview
 
@@ -94,4 +94,4 @@ Please be aware that this code was not crafted by a professional software develo
 
 ## Citation
 
-If you use this code or data in your research, please cite: Luo, K., Wang, X., Castellanos-Acuna, D., & Flannigan, M. (2025). Weakened diurnal weather constraints lead to longer burning hours in North America.
+If you use this code or data in your research, please cite: Luo, K., Wang, X., Castellanos-Acuna, D., & Flannigan, M. (2025). A Weakened diurnal weather cycle leads to longer burning hours in North America.
